@@ -1,0 +1,5 @@
+﻿  字符转换.c
+  折半查找.c
+c:\users\lenovo\source\repos\练习0520\练习0520\折半查找.c(25): warning C4013: “system”未定义；假设外部返回 int
+  正在生成代码...
+  练习0520.vcxproj -> C:\Users\lenovo\source\repos\练习0520\Debug\练习0520.exe
