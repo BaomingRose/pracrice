@@ -1,0 +1,3 @@
+﻿  factor.c
+c:\users\lenovo\source\repos\练习0522\练习0522\factor.c(19): warning C4013: “system”未定义；假设外部返回 int
+  练习0522.vcxproj -> C:\Users\lenovo\source\repos\练习0522\Debug\练习0522.exe
