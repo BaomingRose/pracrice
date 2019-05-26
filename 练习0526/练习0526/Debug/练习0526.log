@@ -1,0 +1,7 @@
+﻿  4.c
+c:\users\lenovo\source\repos\练习0526\练习0526\4.c(14): warning C4013: “strrchr”未定义；假设外部返回 int
+c:\users\lenovo\source\repos\练习0526\练习0526\4.c(14): warning C4047: “=”:“char *”与“int”的间接级别不同
+c:\users\lenovo\source\repos\练习0526\练习0526\4.c(15): warning C4013: “strcat”未定义；假设外部返回 int
+c:\users\lenovo\source\repos\练习0526\练习0526\4.c(20): warning C4013: “strcpy”未定义；假设外部返回 int
+c:\users\lenovo\source\repos\练习0526\练习0526\4.c(52): warning C4013: “system”未定义；假设外部返回 int
+  练习0526.vcxproj -> C:\Users\lenovo\source\repos\练习0526\Debug\练习0526.exe
