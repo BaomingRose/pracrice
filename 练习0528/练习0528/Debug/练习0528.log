@@ -1,0 +1,6 @@
+﻿  5.c
+c:\users\lenovo\source\repos\练习0528\练习0528\5.c(13): warning C4013: “system”未定义；假设外部返回 int
+  6.c
+c:\users\lenovo\source\repos\练习0528\练习0528\6.c(14): warning C4013: “system”未定义；假设外部返回 int
+  正在生成代码...
+  练习0528.vcxproj -> C:\Users\lenovo\source\repos\练习0528\Debug\练习0528.exe
